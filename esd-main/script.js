@@ -1,4 +1,4 @@
-
+api_url="https://esdsemviappnodejs.herokuapp.com/user"
 function loadData(records){
     console.log(records.name);
     table_data=``;
